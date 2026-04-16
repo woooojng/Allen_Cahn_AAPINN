@@ -3,8 +3,7 @@
 
 ### This is repository on result of the paper:
 
-Kevin Buck, Woojeong Kim, Auto-Adaptive PINNs with Applications to Phase Transitions, Numerical Mathe-
-matics, Theory and Applications (Accepted; forthcoming in Vol. 19, 2026). [arXiv](https://arxiv.org/abs/2510.23999):2510.23999 
+Kevin Buck, Woojeong Kim, Auto-Adaptive PINNs with Applications to Phase Transitions, Numerical Mathematics, Theory, Methods and Applications (Accepted; forthcoming in Vol. 19, 2026). [arXiv](https://arxiv.org/abs/2510.23999):2510.23999 
 
 ## Abstract of the paper
 
