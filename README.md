@@ -46,3 +46,16 @@ The **loss-adaptive sampling** method improves upon the baseline approach, but s
 - **Loss-adaptive sampling** improves accuracy compared with the baseline, but remains less effective than AA-PINN.
 
 These results show that the proposed auto-adaptive sampling strategy is more effective for capturing the sharp transition structure of the Allen-Cahn equation without requiring post-hoc resampling.
+
+### Clone
+
+```bash
+git clone https://github.com/woooojng/Allen_Cahn_AAPINN.git
+```
+## Usage
+
+### Train the model at clonned directory in terminal after copy the train.ipynb file into .py file:
+
+```bash
+python3 train.py
+```
